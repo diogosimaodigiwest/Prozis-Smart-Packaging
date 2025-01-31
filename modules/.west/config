@@ -1,0 +1,4 @@
+[manifest]
+path = ubxlib
+file = west.yml
+

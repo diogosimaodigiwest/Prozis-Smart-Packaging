@@ -1,0 +1,27 @@
+{
+    "nrf-connect.debugging.bindings": {
+        "${workspaceFolder}/build": "Launch build"
+    },
+    "files.associations": {
+        "lfs_nand_wrapper.h": "c",
+        "socket.h": "c",
+        "string.h": "c",
+        "blepawrmsgformats.h": "c",
+        "nand_flash.h": "c",
+        "random": "c",
+        "conn.h": "c",
+        "client.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "u_gnss_cfg_val_key.h": "c",
+        "net_context.h": "c",
+        "gateway_storage.h": "c",
+        "printk.h": "c",
+        "kernel.h": "c",
+        "net_buf.h": "c",
+        "compare": "c",
+        "algorithm": "c",
+        "initializer_list": "c"
+    }
+}
